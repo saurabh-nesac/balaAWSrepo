@@ -2,3 +2,5 @@ venv
 *.xlsx
 *.json
 *.csv
+git-env
+v-env

@@ -16,31 +16,133 @@ import pandas as pd
 import json
 import requests
 
+import base64
+import requests
+import os
 
-def upload_to_jsonblob(json_file):
+GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
+print(GITHUB_TOKEN)
+
+# ---------------------------------------------------------------------
+# GitHub Configuration
+# ---------------------------------------------------------------------
+
+
+OWNER = "saurabh-nesac"
+REPO = "balaAWSrepo"
+BRANCH = "main"
+
+BASE_API = f"https://api.github.com/repos/{OWNER}/{REPO}/contents"
+
+import base64
+import requests
+
+def upload_to_github(local_file, remote_path, archive=False):
     """
-    Upload a JSON file to jsonblob.com.
+    Upload or update a file in GitHub.
 
-    Returns
-    -------
-    str
-        URL of the uploaded JSON blob.
+    Parameters
+    ----------
+    local_file : Path
+        Local file.
+
+    remote_path : str
+        Path of the latest file in GitHub.
+
+    archive : bool
+        If True, also upload a dated copy under archive/.
     """
 
-    with open(json_file, "rb") as f:
-        response = requests.post(
-            "https://jsonblob.com/api/jsonBlob",
-            data=f,
-            headers={"Content-Type": "application/json"},
-            timeout=(10, 300),   # 10s connect, 5 min upload
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json",
+    }
+
+    with open(local_file, "rb") as f:
+        content = base64.b64encode(f.read()).decode("utf-8")
+
+    def put_file(path):
+        url = f"{BASE_API}/{path}"
+
+        # Check whether file exists
+        r = requests.get(
+            url,
+            headers=headers,
+            params={"ref": BRANCH},
+            timeout=30,
         )
 
-    response.raise_for_status()
+        sha = None
 
-    url = response.headers.get("Location")
-    print(f"Uploaded: {url}")
+        if r.status_code == 200:
+            sha = r.json()["sha"]
+            action = "Updating"
 
-    return url
+        elif r.status_code == 404:
+            action = "Creating"
+
+        else:
+            raise Exception(
+                f"GitHub GET failed ({r.status_code})\n{r.text}"
+            )
+
+        print(f"{action}: {path}")
+
+        payload = {
+            "message": f"{action} {path}",
+            "content": content,
+            "branch": BRANCH,
+        }
+
+        if sha:
+            payload["sha"] = sha
+
+        r = requests.put(
+            url,
+            headers=headers,
+            json=payload,
+            timeout=120,
+        )
+
+        if r.status_code not in (200, 201):
+            print(r.status_code)
+            print(r.headers)
+            print(r.text)
+
+            raise Exception("Upload failed")
+
+        print(
+            "✓",
+            f"https://raw.githubusercontent.com/{OWNER}/{REPO}/{BRANCH}/{path}",
+        )
+
+    # Upload latest copy
+    put_file(remote_path)
+
+    # Upload archive copy
+    if archive:
+        archive_path = f"archive/{local_file.name}"
+        put_file(archive_path)
+        
+def upload_latest_and_archive(local_file, latest_name):
+    """
+    Upload one file twice:
+
+    1. latest_name
+    2. archive/original_filename
+    """
+
+    # latest copy
+    upload_to_github(
+        local_file,
+        latest_name,
+    )
+
+    # archive copy
+    upload_to_github(
+        local_file,
+        f"archive/{local_file.name}",
+    )        
 # ---------------------------------------------------------------------
 # FILE PATHS
 # ---------------------------------------------------------------------
@@ -170,6 +272,11 @@ rainfall.to_json(
     indent=4,
 )
 
+rainfall.to_json(
+    rainfall_file,
+    orient="records",
+    indent=4,
+)
 # ---------------------------------------------------------------------
 # DAILY JSON
 # ---------------------------------------------------------------------
@@ -218,5 +325,27 @@ print(f"Rainfall JSON: {rainfall_file.name}")
 print(f"Daily JSON   : {daily_file.name}")
 
 # rainfall_url = upload_to_jsonblob(rainfall_file)
-daily_url = upload_to_jsonblob(daily_file)
+# daily_url = upload_to_jsonblob(daily_file)
+# station_url = upload_to_jsonblob(working_dir / "station_master.json")
 # station_url = upload_to_jsonblob(station_master_file)
+print("\nUploading to GitHub...\n")
+
+# Station master (only latest)
+upload_to_github(
+    working_dir / "station_master.json",
+    "station_master.json",
+)
+
+# Rainfall
+upload_latest_and_archive(
+    rainfall_file,
+    "rainfall_latest.json",
+)
+
+# Daily rainfall
+upload_latest_and_archive(
+    daily_file,
+    "daily_latest.json",
+)
+
+print("\nGitHub upload complete.")
