@@ -86,7 +86,7 @@
         "DISTRICT":"DIBANG VALLEY",
         "STATION":"ANINI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":250.0,
         "date":"2026-08-09"
     },
     {
@@ -131,7 +131,7 @@
         "DISTRICT":"EAST_KAMENG",
         "STATION":"SEPPA_PAMPOLI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":17.0,
         "date":"2026-08-09"
     },
     {
@@ -167,7 +167,7 @@
         "DISTRICT":"EAST_SIANG",
         "STATION":"PASHIGHAT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -185,7 +185,7 @@
         "DISTRICT":"KAMLE",
         "STATION":"RAGA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":11.0,
         "date":"2026-08-09"
     },
     {
@@ -212,7 +212,7 @@
         "DISTRICT":"KURUNG_KUMEY",
         "STATION":"KOLORAING",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":36.5,
         "date":"2026-08-09"
     },
     {
@@ -221,7 +221,7 @@
         "DISTRICT":"KURUNG_KUMEY",
         "STATION":"NYAPIN",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":23.0,
         "date":"2026-08-09"
     },
     {
@@ -230,7 +230,7 @@
         "DISTRICT":"KURUNG_KUMEY",
         "STATION":"NYAPIN",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":53.5,
         "date":"2026-08-09"
     },
     {
@@ -257,7 +257,7 @@
         "DISTRICT":"LEPARADA",
         "STATION":"BASAR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -356,7 +356,7 @@
         "DISTRICT":"LOWER_SIANG",
         "STATION":"KANGKU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -374,7 +374,7 @@
         "DISTRICT":"LOWER_SUBANSIRI",
         "STATION":"DEED",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":7.0,
         "date":"2026-08-09"
     },
     {
@@ -410,7 +410,7 @@
         "DISTRICT":"LOWER_SUBANSIRI",
         "STATION":"ZIRO_MANIPOLYANG",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":9.0,
         "date":"2026-08-09"
     },
     {
@@ -455,7 +455,7 @@
         "DISTRICT":"PARUMPARE",
         "STATION":"ITANAGAR",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":3.0,
         "date":"2026-08-09"
     },
     {
@@ -473,7 +473,7 @@
         "DISTRICT":"PAPUMPARE",
         "STATION":"YUPIA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -653,7 +653,7 @@
         "DISTRICT":"TIRAP",
         "STATION":"LONGDING",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":10.0,
         "date":"2026-08-09"
     },
     {
@@ -698,7 +698,7 @@
         "DISTRICT":"UPPER_SIANG",
         "STATION":"TENALI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -734,7 +734,7 @@
         "DISTRICT":"UPPER_SUBHANSERI",
         "STATION":"DAPARIJO",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":4.0,
         "date":"2026-08-09"
     },
     {
@@ -788,7 +788,7 @@
         "DISTRICT":"WEST_KAMENG",
         "STATION":"BOMDILA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -797,7 +797,7 @@
         "DISTRICT":"WEST_KAMENG",
         "STATION":"DIRANG",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -806,7 +806,7 @@
         "DISTRICT":"WEST_KAMENG",
         "STATION":"DIRANG",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":20.5,
         "date":"2026-08-09"
     },
     {
@@ -815,7 +815,7 @@
         "DISTRICT":"WEST_KAMENG",
         "STATION":"KALAKTANG",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.1,
         "date":"2026-08-09"
     },
     {
@@ -851,7 +851,7 @@
         "DISTRICT":"WEST_SIANG",
         "STATION":"YOMCHA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":16.0,
         "date":"2026-08-09"
     },
     {
@@ -896,7 +896,7 @@
         "DISTRICT":"BARPETA",
         "STATION":"BAJALI_UNIVERSITY",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -914,7 +914,7 @@
         "DISTRICT":"BARPETA",
         "STATION":"BARPETA_ARG",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":20.0,
         "date":"2026-08-09"
     },
     {
@@ -968,7 +968,7 @@
         "DISTRICT":"CACHAR",
         "STATION":"CACHER_KVK",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":18.0,
         "date":"2026-08-09"
     },
     {
@@ -977,7 +977,7 @@
         "DISTRICT":"CACHAR",
         "STATION":"LAKHIPUR",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":3.5,
         "date":"2026-08-09"
     },
     {
@@ -1040,7 +1040,7 @@
         "DISTRICT":"CHIRANG",
         "STATION":"CHIRANG",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":23.0,
         "date":"2026-08-09"
     },
     {
@@ -1058,7 +1058,7 @@
         "DISTRICT":"DARRANG",
         "STATION":"DALGOAN",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":2.0,
         "date":"2026-08-09"
     },
     {
@@ -1067,7 +1067,7 @@
         "DISTRICT":"DARRANG",
         "STATION":"GARUKHUTI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":28.0,
         "date":"2026-08-09"
     },
     {
@@ -1076,7 +1076,7 @@
         "DISTRICT":"DARRANG",
         "STATION":"KVK_DARRANG",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":2.0,
         "date":"2026-08-09"
     },
     {
@@ -1085,7 +1085,7 @@
         "DISTRICT":"DARRANG",
         "STATION":"MANGALDAI",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -1103,7 +1103,7 @@
         "DISTRICT":"DARRANG",
         "STATION":"PATHARUGHAT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -1139,7 +1139,7 @@
         "DISTRICT":"DHEMAJI",
         "STATION":"SILAPATHAR_SCIENCE_COLLEGE",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":2.5,
         "date":"2026-08-09"
     },
     {
@@ -1148,7 +1148,7 @@
         "DISTRICT":"DHUBRI",
         "STATION":"AGOMANI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":66.0,
         "date":"2026-08-09"
     },
     {
@@ -1166,7 +1166,7 @@
         "DISTRICT":"DHUBRI",
         "STATION":"BN_COLLEGE",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -1175,7 +1175,7 @@
         "DISTRICT":"DHUBRI",
         "STATION":"DHUBRI_KVK",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":55.5,
         "date":"2026-08-09"
     },
     {
@@ -1184,7 +1184,7 @@
         "DISTRICT":"DHUBRI",
         "STATION":"GAURIPUR_AEGCL",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":4.5,
         "date":"2026-08-09"
     },
     {
@@ -1202,7 +1202,7 @@
         "DISTRICT":"DHUBRI",
         "STATION":"SCS_COLLEGE_OF_AGICULTURE_CHUBRI",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -1211,7 +1211,7 @@
         "DISTRICT":"DIBRUGARH",
         "STATION":"BCPL_DIBRUGARH",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -1220,7 +1220,7 @@
         "DISTRICT":"DIBRUGARH",
         "STATION":"DC_OFC_DIBRUGARH",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -1229,7 +1229,7 @@
         "DISTRICT":"DIBRUGARH",
         "STATION":"DIBRUGARH",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.2,
         "date":"2026-08-09"
     },
     {
@@ -1292,7 +1292,7 @@
         "DISTRICT":"DIBRUGARH",
         "STATION":"WRD",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -1301,7 +1301,7 @@
         "DISTRICT":"DIMA_HASAO",
         "STATION":"HAFLONG_AEGCL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":43.0,
         "date":"2026-08-09"
     },
     {
@@ -1328,7 +1328,7 @@
         "DISTRICT":"DIMA_HASAO",
         "STATION":"UMRANGSHU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":20.0,
         "date":"2026-08-09"
     },
     {
@@ -1391,7 +1391,7 @@
         "DISTRICT":"GOLAGHAT",
         "STATION":"CNB_COLLEGE_BOKAKHAT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -1445,7 +1445,7 @@
         "DISTRICT":"HAILAKANDI",
         "STATION":"ALGAPUR_CIRCLE",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":71.0,
         "date":"2026-08-09"
     },
     {
@@ -1481,7 +1481,7 @@
         "DISTRICT":"HAILAKANDI",
         "STATION":"MATIJURI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":21.0,
         "date":"2026-08-09"
     },
     {
@@ -1490,7 +1490,7 @@
         "DISTRICT":"HAILAKANDI",
         "STATION":"PANCHGRAM_AEGCL",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":51.0,
         "date":"2026-08-09"
     },
     {
@@ -1499,7 +1499,7 @@
         "DISTRICT":"HAJOI",
         "STATION":"LUMDING",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":16.5,
         "date":"2026-08-09"
     },
     {
@@ -1526,7 +1526,7 @@
         "DISTRICT":"JORAHAT",
         "STATION":"KVK_JORHAT",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":4.5,
         "date":"2026-08-09"
     },
     {
@@ -1562,7 +1562,7 @@
         "DISTRICT":"KAMRUP",
         "STATION":"BOKO_AEGCL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":2.0,
         "date":"2026-08-09"
     },
     {
@@ -1580,7 +1580,7 @@
         "DISTRICT":"KAMRUP",
         "STATION":"HAZO",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":49.5,
         "date":"2026-08-09"
     },
     {
@@ -1589,7 +1589,7 @@
         "DISTRICT":"KAMRUP",
         "STATION":"KUKURMARA_MIRZA_AEGCL",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":25.0,
         "date":"2026-08-09"
     },
     {
@@ -1607,7 +1607,7 @@
         "DISTRICT":"KAMRUP",
         "STATION":"SAULKUCHI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":14.5,
         "date":"2026-08-09"
     },
     {
@@ -1616,7 +1616,7 @@
         "DISTRICT":"KAMRUP_METROPOLITAN",
         "STATION":"AAU_HRS",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":48.5,
         "date":"2026-08-09"
     },
     {
@@ -1643,7 +1643,7 @@
         "DISTRICT":"KAMRUP_METROPOLITAN",
         "STATION":"DOWN_TOWN_UNIVERSITY",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":76.5,
         "date":"2026-08-09"
     },
     {
@@ -1652,7 +1652,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"GUWAHATI_UNIVERSITY",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":36.5,
         "date":"2026-08-09"
     },
     {
@@ -1661,7 +1661,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"GUWAHATI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":23.5,
         "date":"2026-08-09"
     },
     {
@@ -1670,7 +1670,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"GUWAHATI ARG",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":41.0,
         "date":"2026-08-09"
     },
     {
@@ -1679,7 +1679,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"GUWAHATI_CITY",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":41.5,
         "date":"2026-08-09"
     },
     {
@@ -1697,7 +1697,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"HRS_KAHIKUCHI",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":51.5,
         "date":"2026-08-09"
     },
     {
@@ -1724,7 +1724,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"KALAKSHETRA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":51.5,
         "date":"2026-08-09"
     },
     {
@@ -1733,7 +1733,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"KAMAKHYA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":24.0,
         "date":"2026-08-09"
     },
     {
@@ -1742,7 +1742,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"KHETRI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -1760,7 +1760,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"SARUSAJAI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":62.5,
         "date":"2026-08-09"
     },
     {
@@ -1778,7 +1778,7 @@
         "DISTRICT":"KAMRUP_METROPOLIAN",
         "STATION":"VCBC_RANI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":10.0,
         "date":"2026-08-09"
     },
     {
@@ -1832,7 +1832,7 @@
         "DISTRICT":"KARBI_ANGLONG EAST",
         "STATION":"BAKULIA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":46.0,
         "date":"2026-08-09"
     },
     {
@@ -1841,7 +1841,7 @@
         "DISTRICT":"KARBI_ANGLONG_EAST",
         "STATION":"DIPHU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -1868,7 +1868,7 @@
         "DISTRICT":"KARBI_ANGLONG WEST",
         "STATION":"HABANG_CIRCLE",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":9.0,
         "date":"2026-08-09"
     },
     {
@@ -1877,7 +1877,7 @@
         "DISTRICT":"KARBI_ANGLONG WEST",
         "STATION":"KHERONIGHAT",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -1886,7 +1886,7 @@
         "DISTRICT":"KARBI_ANGLONG WEST",
         "STATION":"UMLAPHER",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":12.0,
         "date":"2026-08-09"
     },
     {
@@ -1895,7 +1895,7 @@
         "DISTRICT":"KARBI_ANGLONG WEST",
         "STATION":"UMPANAI_APDCL",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":9.5,
         "date":"2026-08-09"
     },
     {
@@ -1940,7 +1940,7 @@
         "DISTRICT":"KARIMGANJ",
         "STATION":"KARIMGANJ_AMFU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":10.0,
         "date":"2026-08-09"
     },
     {
@@ -1949,7 +1949,7 @@
         "DISTRICT":"KARIMGANJ",
         "STATION":"ZRS_AKBARDUR",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":10.0,
         "date":"2026-08-09"
     },
     {
@@ -1994,7 +1994,7 @@
         "DISTRICT":"KOKRAJHAR",
         "STATION":"ZRS_GOSSAIGOAN",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":67.5,
         "date":"2026-08-09"
     },
     {
@@ -2012,7 +2012,7 @@
         "DISTRICT":"LAKHIMPUR",
         "STATION":"CHOULDHUAGHAT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":4.5,
         "date":"2026-08-09"
     },
     {
@@ -2021,7 +2021,7 @@
         "DISTRICT":"LAKHIMPUR",
         "STATION":"LAKHIMPUR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -2093,7 +2093,7 @@
         "DISTRICT":"NAGOAN",
         "STATION":"KAMPUR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":32.0,
         "date":"2026-08-09"
     },
     {
@@ -2102,7 +2102,7 @@
         "DISTRICT":"NAGOAN",
         "STATION":"LANKA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":2.0,
         "date":"2026-08-09"
     },
     {
@@ -2120,7 +2120,7 @@
         "DISTRICT":"NAGOAN",
         "STATION":"RAHA_FISHERY",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":46.0,
         "date":"2026-08-09"
     },
     {
@@ -2129,7 +2129,7 @@
         "DISTRICT":"NAGOAN",
         "STATION":"SAMAGURI_AEGCL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":12.5,
         "date":"2026-08-09"
     },
     {
@@ -2147,7 +2147,7 @@
         "DISTRICT":"NAGOAN",
         "STATION":"ZRS_SHILLONGANI",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -2156,7 +2156,7 @@
         "DISTRICT":"NALBARI",
         "STATION":"CHAMATA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -2237,7 +2237,7 @@
         "DISTRICT":"SONITPUR",
         "STATION":"BISWANATH_COLLEGE_OF_AGRICULTURE_BISWANATH_CHARIALI",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -2255,7 +2255,7 @@
         "DISTRICT":"SONITPUR",
         "STATION":"DHEKIAJULI_AEGCL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":2.0,
         "date":"2026-08-09"
     },
     {
@@ -2282,7 +2282,7 @@
         "DISTRICT":"SONITPUR",
         "STATION":"NERIWALAM",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":11.5,
         "date":"2026-08-09"
     },
     {
@@ -2318,7 +2318,7 @@
         "DISTRICT":"TINSUKIA",
         "STATION":"CITRUS_PLANTATION_OF_AGRICULTURE_BISWANATH_CHARIALI",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":10.0,
         "date":"2026-08-09"
     },
     {
@@ -2336,7 +2336,7 @@
         "DISTRICT":"TINSUKIA",
         "STATION":"MARGHERITA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":4.0,
         "date":"2026-08-09"
     },
     {
@@ -2363,7 +2363,7 @@
         "DISTRICT":"TINSUKIA",
         "STATION":"TINSUKIA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -2390,7 +2390,7 @@
         "DISTRICT":"UDALGURI",
         "STATION":"ROWTA_AEGCL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":81.5,
         "date":"2026-08-09"
     },
     {
@@ -2453,7 +2453,7 @@
         "DISTRICT":"CHANDEL",
         "STATION":"CHAKPIKARONG",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":3.5,
         "date":"2026-08-09"
     },
     {
@@ -2471,7 +2471,7 @@
         "DISTRICT":"CHURACHANPUR",
         "STATION":"GELJANG_RESORT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":4.5,
         "date":"2026-08-09"
     },
     {
@@ -2489,7 +2489,7 @@
         "DISTRICT":"IMPHAL EAST",
         "STATION":"POROMPAT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.2,
         "date":"2026-08-09"
     },
     {
@@ -2498,7 +2498,7 @@
         "DISTRICT":"IMPHAL EAST",
         "STATION":"SAINIK_SCHOOL",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":17.0,
         "date":"2026-08-09"
     },
     {
@@ -2534,7 +2534,7 @@
         "DISTRICT":"IMPHAL WEST",
         "STATION":"WANGNOI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":14.5,
         "date":"2026-08-09"
     },
     {
@@ -2552,7 +2552,7 @@
         "DISTRICT":"KANGKPOPI",
         "STATION":"SAIKUL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":35.5,
         "date":"2026-08-09"
     },
     {
@@ -2570,7 +2570,7 @@
         "DISTRICT":"NONEY",
         "STATION":"KHOUPUM",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":47.5,
         "date":"2026-08-09"
     },
     {
@@ -2597,7 +2597,7 @@
         "DISTRICT":"TENGNOUPAL",
         "STATION":"ADC MOREH",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":35.5,
         "date":"2026-08-09"
     },
     {
@@ -2606,7 +2606,7 @@
         "DISTRICT":"THOUBAL",
         "STATION":"KAKCHING",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":10.0,
         "date":"2026-08-09"
     },
     {
@@ -2651,7 +2651,7 @@
         "DISTRICT":"EAST_GARO_HILS",
         "STATION":"WILLIAMNAGAR",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":5.5,
         "date":"2026-08-09"
     },
     {
@@ -2678,7 +2678,7 @@
         "DISTRICT":"EAST_KHASI_HILLS",
         "STATION":"KHATARSHNONG_LAITKHROH",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":4.5,
         "date":"2026-08-09"
     },
     {
@@ -2687,7 +2687,7 @@
         "DISTRICT":"EAST_KHASI_HILLS",
         "STATION":"LABAN",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -2705,7 +2705,7 @@
         "DISTRICT":"EAST_KHASI_HILLS",
         "STATION":"MAWRYNGKNENG",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -2741,7 +2741,7 @@
         "DISTRICT":"EAST_KHASI_HILLS",
         "STATION":"SHILLONG",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -2759,7 +2759,7 @@
         "DISTRICT":"EAST_WEST_KHASI_HILLS",
         "STATION":"KVK_NONGSHILLONG",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":3.5,
         "date":"2026-08-09"
     },
     {
@@ -2777,7 +2777,7 @@
         "DISTRICT":"JAINTIA HILLS",
         "STATION":"JOWAI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":17.0,
         "date":"2026-08-09"
     },
     {
@@ -2795,7 +2795,7 @@
         "DISTRICT":"NORTH_GARO_HILLS",
         "STATION":"RESUBELAPARA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":27.5,
         "date":"2026-08-09"
     },
     {
@@ -2804,7 +2804,7 @@
         "DISTRICT":"NORTH_GARO_HILLS",
         "STATION":"RESUBELAPARA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":18.0,
         "date":"2026-08-09"
     },
     {
@@ -2822,7 +2822,7 @@
         "DISTRICT":"RI_BHOI",
         "STATION":"ICAR_UMIAM",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":14.5,
         "date":"2026-08-09"
     },
     {
@@ -2849,7 +2849,7 @@
         "DISTRICT":"RI_BHOI",
         "STATION":"UMTREWDAM",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -2858,7 +2858,7 @@
         "DISTRICT":"SOUTH_GARO_HILLS",
         "STATION":"MINENG",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":16.5,
         "date":"2026-08-09"
     },
     {
@@ -2867,7 +2867,7 @@
         "DISTRICT":"SOUTH_GARO_HILLS",
         "STATION":"BAGHMARA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":2.5,
         "date":"2026-08-09"
     },
     {
@@ -2885,7 +2885,7 @@
         "DISTRICT":"SOUTH_WEST_GARO_HILLS",
         "STATION":"AMPATI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -2894,7 +2894,7 @@
         "DISTRICT":"SOUTH_WEST_KHASI_HILLS",
         "STATION":"MAWKYRWAT",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":5.0,
         "date":"2026-08-09"
     },
     {
@@ -2957,7 +2957,7 @@
         "DISTRICT":"AIZAWL",
         "STATION":"LENGPUI",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":24.0,
         "date":"2026-08-09"
     },
     {
@@ -2966,7 +2966,7 @@
         "DISTRICT":"AIZAWL",
         "STATION":"MIZORAM UNIVERSITY",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":9.5,
         "date":"2026-08-09"
     },
     {
@@ -2984,7 +2984,7 @@
         "DISTRICT":"CHAMPHAI",
         "STATION":"CHAMPHAI_AWS",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":43.0,
         "date":"2026-08-09"
     },
     {
@@ -3011,7 +3011,7 @@
         "DISTRICT":"HINATHIAL",
         "STATION":"HNATHIAL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -3020,7 +3020,7 @@
         "DISTRICT":"KHAWZAWL",
         "STATION":"KHAWZAWL",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":35.5,
         "date":"2026-08-09"
     },
     {
@@ -3038,7 +3038,7 @@
         "DISTRICT":"KOLASIB",
         "STATION":"KOLASIB",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":24.0,
         "date":"2026-08-09"
     },
     {
@@ -3074,7 +3074,7 @@
         "DISTRICT":"LAWNGTLAI",
         "STATION":"CHAWNHU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -3083,7 +3083,7 @@
         "DISTRICT":"MAMIT",
         "STATION":"LENGPUI_KVK",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":17.5,
         "date":"2026-08-09"
     },
     {
@@ -3110,7 +3110,7 @@
         "DISTRICT":"SAIHA",
         "STATION":"SAIHA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":12.0,
         "date":"2026-08-09"
     },
     {
@@ -3128,7 +3128,7 @@
         "DISTRICT":"SERCHHIP",
         "STATION":"EAST_LUNGDAR",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -3137,7 +3137,7 @@
         "DISTRICT":"SERCHHIP",
         "STATION":"SERCHHIP",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":3.0,
         "date":"2026-08-09"
     },
     {
@@ -3146,7 +3146,7 @@
         "DISTRICT":"DIMAPUR",
         "STATION":"CHUMEKEDIMA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":14.0,
         "date":"2026-08-09"
     },
     {
@@ -3155,7 +3155,7 @@
         "DISTRICT":"DIMAPUR",
         "STATION":"DIMAPUR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":7.0,
         "date":"2026-08-09"
     },
     {
@@ -3182,7 +3182,7 @@
         "DISTRICT":"KIPHIRE",
         "STATION":"KIPHIRE_AWS400",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.5,
         "date":"2026-08-09"
     },
     {
@@ -3191,7 +3191,7 @@
         "DISTRICT":"KIPHIRE",
         "STATION":"PUNGRO",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":4.0,
         "date":"2026-08-09"
     },
     {
@@ -3209,7 +3209,7 @@
         "DISTRICT":"KOHIMA",
         "STATION":"CHIEPHOBOZOU_NERHEMA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":59.5,
         "date":"2026-08-09"
     },
     {
@@ -3218,7 +3218,7 @@
         "DISTRICT":"KOHIMA",
         "STATION":"JAKHAMA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":5.0,
         "date":"2026-08-09"
     },
     {
@@ -3236,7 +3236,7 @@
         "DISTRICT":"KOHIMA",
         "STATION":"KOHIMA_ARG",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -3308,7 +3308,7 @@
         "DISTRICT":"TUENSANG",
         "STATION":"THONOKNYU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":49.5,
         "date":"2026-08-09"
     },
     {
@@ -3326,7 +3326,7 @@
         "DISTRICT":"WOKHA",
         "STATION":"TSEMINU",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -3335,7 +3335,7 @@
         "DISTRICT":"WOKHA",
         "STATION":"WOKHA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":3.0,
         "date":"2026-08-09"
     },
     {
@@ -3560,7 +3560,7 @@
         "DISTRICT":"DHALAI",
         "STATION":"AMBASSA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":17.4,
         "date":"2026-08-09"
     },
     {
@@ -3569,7 +3569,7 @@
         "DISTRICT":"DHALAI",
         "STATION":"CHHAILENGTA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.4,
         "date":"2026-08-09"
     },
     {
@@ -3578,7 +3578,7 @@
         "DISTRICT":"DHALAI",
         "STATION":"DHOLAI _KVK",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":31.5,
         "date":"2026-08-09"
     },
     {
@@ -3587,7 +3587,7 @@
         "DISTRICT":"DHALAI",
         "STATION":"GANDACHARA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":13.0,
         "date":"2026-08-09"
     },
     {
@@ -3596,7 +3596,7 @@
         "DISTRICT":"DHALAI",
         "STATION":"KAMALPUR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":14.0,
         "date":"2026-08-09"
     },
     {
@@ -3605,7 +3605,7 @@
         "DISTRICT":"DHALAI",
         "STATION":"NALKATA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -3614,7 +3614,7 @@
         "DISTRICT":"GOMATI",
         "STATION":"AMARPUR",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -3623,7 +3623,7 @@
         "DISTRICT":"GOMATI",
         "STATION":"GOLUKPUR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":7.0,
         "date":"2026-08-09"
     },
     {
@@ -3632,7 +3632,7 @@
         "DISTRICT":"GOMATI",
         "STATION":"KARBOOK",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":4.6,
         "date":"2026-08-09"
     },
     {
@@ -3641,7 +3641,7 @@
         "DISTRICT":"GOMATI",
         "STATION":"MAHARANI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.8,
         "date":"2026-08-09"
     },
     {
@@ -3650,7 +3650,7 @@
         "DISTRICT":"GOMATI",
         "STATION":"TAIDU",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.4,
         "date":"2026-08-09"
     },
     {
@@ -3659,7 +3659,7 @@
         "DISTRICT":"KHOWAI",
         "STATION":"GHILATALI",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.4,
         "date":"2026-08-09"
     },
     {
@@ -3677,7 +3677,7 @@
         "DISTRICT":"KHOWAI",
         "STATION":"TELIAMURA_BARRAGE",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.2,
         "date":"2026-08-09"
     },
     {
@@ -3686,7 +3686,7 @@
         "DISTRICT":"KHOWAI",
         "STATION":"TELIAMURA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -3695,7 +3695,7 @@
         "DISTRICT":"KHOWAI",
         "STATION":"TULASHIKHAR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":1.0,
         "date":"2026-08-09"
     },
     {
@@ -3704,7 +3704,7 @@
         "DISTRICT":"NORTH_TRIPURA",
         "STATION":"ASHAPARA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":3.0,
         "date":"2026-08-09"
     },
     {
@@ -3713,7 +3713,7 @@
         "DISTRICT":"NORTH_TRIPURA",
         "STATION":"EDEN_LAOUGE",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":26.5,
         "date":"2026-08-09"
     },
     {
@@ -3731,7 +3731,7 @@
         "DISTRICT":"NORTH_TRIPURA",
         "STATION":"KADAMTALA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":9.5,
         "date":"2026-08-09"
     },
     {
@@ -3758,7 +3758,7 @@
         "DISTRICT":"NORTH_TRIPURA",
         "STATION":"KVK_PANISAGAR",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":18.5,
         "date":"2026-08-09"
     },
     {
@@ -3776,7 +3776,7 @@
         "DISTRICT":"SIPAHIJALA",
         "STATION":"KATHALIA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":0.2,
         "date":"2026-08-09"
     },
     {
@@ -3812,7 +3812,7 @@
         "DISTRICT":"SOUTH_TRIPURA",
         "STATION":"BELONIA",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -3839,7 +3839,7 @@
         "DISTRICT":"SOUTH_TRIPURA",
         "STATION":"KVK_MANPATHAR",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":7.5,
         "date":"2026-08-09"
     },
     {
@@ -3857,7 +3857,7 @@
         "DISTRICT":"SOUTH_TRIPURA",
         "STATION":"SABROOM",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":3.5,
         "date":"2026-08-09"
     },
     {
@@ -3866,7 +3866,7 @@
         "DISTRICT":"UNAKOTI",
         "STATION":"KAILASHAHAR",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":22.0,
         "date":"2026-08-09"
     },
     {
@@ -3875,7 +3875,7 @@
         "DISTRICT":"UNAKOTI",
         "STATION":"KUMARGHAT",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":2.5,
         "date":"2026-08-09"
     },
     {
@@ -3902,7 +3902,7 @@
         "DISTRICT":"WEST TRIPURA",
         "STATION":"BUDHJONGNAGAR",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":0.5,
         "date":"2026-08-09"
     },
     {
@@ -3920,7 +3920,7 @@
         "DISTRICT":"WEST_TRIPURA",
         "STATION":"HEZAMARA",
         "TYPE":"AWS",
-        "rainfall":null,
+        "rainfall":7.2,
         "date":"2026-08-09"
     },
     {
@@ -3956,7 +3956,7 @@
         "DISTRICT":"WEST TRIPURA",
         "STATION":"LEMBUCHERRA",
         "TYPE":"AGRO",
-        "rainfall":null,
+        "rainfall":8.5,
         "date":"2026-08-09"
     },
     {
@@ -3965,7 +3965,7 @@
         "DISTRICT":"WEST_TRIPURA",
         "STATION":"LAMBUCHERRA_AGRI_COLLEGE",
         "TYPE":"ARG",
-        "rainfall":null,
+        "rainfall":8.0,
         "date":"2026-08-09"
     },
     {
