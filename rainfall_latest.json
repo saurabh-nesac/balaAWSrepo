@@ -22893,7 +22893,7 @@
         "STATION":"LENGPUI",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":59.0
     },
     {
         "stationID":"2599622eba05feb716421a7c94c8ecb6aa55a8ac6e5b01de268de83a98895db5",
@@ -22902,7 +22902,7 @@
         "STATION":"MIZORAM UNIVERSITY",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":65.0
     },
     {
         "stationID":"a76dee761d6494308e92161a632df2c22a352837e236c218eff86e7a903b0c0c",
@@ -22920,7 +22920,7 @@
         "STATION":"CHAMPHAI_AWS",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":24.0
     },
     {
         "stationID":"4016818226bf8aeeb616e7b7bb14f11d81d339b2da6c20c7afb67a14a569bc12",
@@ -22947,7 +22947,7 @@
         "STATION":"HNATHIAL",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":39.0
     },
     {
         "stationID":"fa9892aef5dcb7bcb321d9a80b481047753abd8f301975800364d8d5bbd1499b",
@@ -22956,7 +22956,7 @@
         "STATION":"KHAWZAWL",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":30.5
     },
     {
         "stationID":"57439d56b97bf71b73bba20e096f603026eb29798734311f3c1efcf994617e4f",
@@ -22974,7 +22974,7 @@
         "STATION":"KOLASIB",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":19.5
     },
     {
         "stationID":"8712cb62d094fb73927efbd0aa6e3c73d3b9c8561dac5fa82586f5433e6f2f11",
@@ -23010,7 +23010,7 @@
         "STATION":"CHAWNHU",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":144.0
     },
     {
         "stationID":"dcf256186af64ccb955ca8d99e97e4e7d9730dd4033e9af7eb862b1f8a3af764",
@@ -23019,7 +23019,7 @@
         "STATION":"LENGPUI_KVK",
         "TYPE":"AGRO",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":47.5
     },
     {
         "stationID":"5b74fb5ba4e5357764eba0c877b6d14e08fb4cee215d08471c854b0dbbd973f4",
@@ -23046,7 +23046,7 @@
         "STATION":"SAIHA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":105.5
     },
     {
         "stationID":"671a63f424e2675155f0c4ddbcbfa93d66b5644e726e17e94a38cdf65d3ae88c",
@@ -23064,7 +23064,7 @@
         "STATION":"EAST_LUNGDAR",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"b8b1c9010e2acbd10931f6d14c58db4360b9e8ebf4a69f9f0bd25df47b1268b4",
@@ -23082,7 +23082,7 @@
         "STATION":"CHUMEKEDIMA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.5
     },
     {
         "stationID":"f9a7d0402b06e868f9eb454155dce49d0524c7d1283da24cafbb3860069f3ffb",
@@ -23091,7 +23091,7 @@
         "STATION":"DIMAPUR",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.5
     },
     {
         "stationID":"f93f44faf7d73c0f1a6885b97aa9d8d38f25a888c6b9d7d2fcd2e4d170980a0a",
@@ -23100,7 +23100,7 @@
         "STATION":"JHARNAPANI_AMFU",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":2.5
     },
     {
         "stationID":"1191737661fdc7214a5e4a5a35fd347f92ec17604240de5b1fedeabd99430f7f",
@@ -23145,7 +23145,7 @@
         "STATION":"CHIEPHOBOZOU_NERHEMA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":3.0
     },
     {
         "stationID":"6cef92248840db87bcca22bfb1d30c015ccc9206a76f2955aca2ced53a334d91",
@@ -23154,7 +23154,7 @@
         "STATION":"JAKHAMA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.5
     },
     {
         "stationID":"e35ebea479f421900355c346e7f6179300bda6a43ec9b54286a9eb4de9e75796",
@@ -23163,7 +23163,7 @@
         "STATION":"KOHIMA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.5
     },
     {
         "stationID":"1281c39003b96a4cb289fd78711f17b54c23f2def8592c841a96aa0d383507d6",
@@ -23172,7 +23172,7 @@
         "STATION":"KOHIMA_ARG",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"6f67c3904931f59cafea8f858a66810dffadcdb8cadc6436b23a427092819393",
@@ -23181,7 +23181,7 @@
         "STATION":"SECHU",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":2.0
     },
     {
         "stationID":"72d61678140e474cd00cb1382249e7e9c37394abd17b00c5dc155fb3c9a1ef1f",
@@ -23226,7 +23226,7 @@
         "STATION":"JALUKIE",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":4.0
     },
     {
         "stationID":"ac05fc93da7c2e3afae02d38cb62ec61834d753c6dd96d15c6189271c0fa8042",
@@ -23496,7 +23496,7 @@
         "STATION":"AMBASSA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":76.0
     },
     {
         "stationID":"cd331b82bd96ec717c45e93815c4d50a7181c01f9c896b453c20f8340c35273d",
@@ -23505,7 +23505,7 @@
         "STATION":"CHHAILENGTA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":19.4
     },
     {
         "stationID":"a4a5252e8579ec868777aa469b1c84d849ad06d64d9d6afb02babc6a41405a30",
@@ -23514,7 +23514,7 @@
         "STATION":"DHOLAI _KVK",
         "TYPE":"AGRO",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":33.5
     },
     {
         "stationID":"c9656df4782fbc2ae326d3358de81a361e5fbe68a1151782437fbfe48c04f12a",
@@ -23523,7 +23523,7 @@
         "STATION":"GANDACHARA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":17.5
     },
     {
         "stationID":"185d41fcaf0b6b4e3b4378f16ad27abe7d04e1f5fc892024e49f2e4019fe6f56",
@@ -23532,7 +23532,7 @@
         "STATION":"KAMALPUR",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":17.0
     },
     {
         "stationID":"5204fb2ad334bf020a0ef46fd76215dcc78f3e832c9aabd686c5ec1dfbd4c754",
@@ -23541,7 +23541,7 @@
         "STATION":"NALKATA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":10.5
     },
     {
         "stationID":"faf3245de16c83343df4609fe3f682fa55338a66656176374a78ddd534bb9de6",
@@ -23568,7 +23568,7 @@
         "STATION":"KARBOOK",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":61.8
     },
     {
         "stationID":"3292d60fc22238dd69a2cca3177e2a30ab2894f2fe2f6f26ddec6feb6e1a88be",
@@ -23577,7 +23577,7 @@
         "STATION":"MAHARANI",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":0.8
     },
     {
         "stationID":"026d6baf944794c09480bf3094af02d69ddd62c4e8acf9b2fb76d8b97343569c",
@@ -23586,7 +23586,7 @@
         "STATION":"TAIDU",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":10.5
     },
     {
         "stationID":"90307e7de77292ca4e715b451db944262ee48de8cced0daca252ec176e37bd9c",
@@ -23595,7 +23595,7 @@
         "STATION":"GHILATALI",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":18.8
     },
     {
         "stationID":"fc37988bb5198e197097626d155600a58e3e26dda489ce6d6540cf35cefd18d7",
@@ -23604,7 +23604,7 @@
         "STATION":"KHOWAI",
         "TYPE":"ASW",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":2.5
     },
     {
         "stationID":"ca7b02095c95929ff75df2b4dc775daa4afd0b0dc8653712569f02a1e026910a",
@@ -23613,7 +23613,7 @@
         "STATION":"TELIAMURA_BARRAGE",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":2.2
     },
     {
         "stationID":"b7407fb09b799f93f70cace530ed3644b706fd52be8a78b8c996f5f84e709984",
@@ -23622,7 +23622,7 @@
         "STATION":"TELIAMURA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":9.0
     },
     {
         "stationID":"2c67b9fb6e2392393861e94dea9569c38c2a1ce84af36e2449e68d3ad5cfb4c0",
@@ -23631,7 +23631,7 @@
         "STATION":"TULASHIKHAR",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":4.8
     },
     {
         "stationID":"29b275e888893c9a12130bff553e4e2d16ec2f9c9b70871c40f487df655ef542",
@@ -23640,7 +23640,7 @@
         "STATION":"ASHAPARA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":36.5
     },
     {
         "stationID":"b746b86d84d1f1c65d5d88f7906442ecd04e7f15cbc11fd6002121d7f66e4ca2",
@@ -23649,7 +23649,7 @@
         "STATION":"EDEN_LAOUGE",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":56.5
     },
     {
         "stationID":"418dc6c4fe8934542360e69883dca0d7850fc9a94547448deee3c779171907fe",
@@ -23667,7 +23667,7 @@
         "STATION":"KADAMTALA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":5.0
     },
     {
         "stationID":"03a5434c1d4a13bd187017043b12bff76b2c5f61dcec9c8e1267c595648034f8",
@@ -23694,7 +23694,7 @@
         "STATION":"KVK_PANISAGAR",
         "TYPE":"AGRO",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":20.0
     },
     {
         "stationID":"2189aa260a9aa8d482ff52c6b4de62431c71fd800f61225ff41ffe68e1a625db",
@@ -23712,7 +23712,7 @@
         "STATION":"KATHALIA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":36.8
     },
     {
         "stationID":"f8afa7fd98ffe53ac1f3a2d3ee26da8eb5615e72d11d6080b39f12ac4e86c2a9",
@@ -23721,7 +23721,7 @@
         "STATION":"SIPAHIJALA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":3.0
     },
     {
         "stationID":"44485fba564662acb62f80c95dcf041c5a131457c3c384c92e919e09c0cf6691",
@@ -23730,7 +23730,7 @@
         "STATION":"SONAMURA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":26.0
     },
     {
         "stationID":"f1e5a247c7a7f793edcc09472f458e7ecf848195b47c0cd490bc2b3eb9f1c754",
@@ -23739,7 +23739,7 @@
         "STATION":"BAGAFA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"39a5dc79429674b4899ed888e1f679316de9a7eac55ea6b3f82e1a50495e3c31",
@@ -23748,7 +23748,7 @@
         "STATION":"BELONIA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.5
     },
     {
         "stationID":"c183c488d2c73af2baa789bb06442ef080a9d72823321eb243a308eb17f60d84",
@@ -23757,7 +23757,7 @@
         "STATION":"GOKULPUR",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":67.0
     },
     {
         "stationID":"655f3220344d2214b768987b929ca67b715a45d7b9b9a8e518a5398a4ee1539f",
@@ -23793,7 +23793,7 @@
         "STATION":"SABROOM",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"8eaf1867487570393525f1d02bb279972ba1a21b6aefaa074b406435c72676ba",
@@ -23811,7 +23811,7 @@
         "STATION":"KUMARGHAT",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":8.5
     },
     {
         "stationID":"f6a33296f415efdb2baa34b7ff7c4c3245640fa0cf687044885d2b23038a51e9",
@@ -23820,7 +23820,7 @@
         "STATION":"AGARTALA AIRPORT",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":17.0
     },
     {
         "stationID":"6679936b36214ca487439b4cd05c596b0f166a3966c23caa880e26bea2830f95",
@@ -23829,7 +23829,7 @@
         "STATION":"AD NAGAR AMFU",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":100.5
     },
     {
         "stationID":"155960273e13343303eb7f3a2830a320f7cdf0c6181d5039ac4dd855e33467b7",
@@ -23838,7 +23838,7 @@
         "STATION":"BUDHJONGNAGAR",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":3.0
     },
     {
         "stationID":"2d8a9d376871afe339a16d754c418b2954b246f03c4d7a685931ce3513a6e884",
@@ -23847,7 +23847,7 @@
         "STATION":"DM_OFFICE_WEST_AGARTALA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":83.0
     },
     {
         "stationID":"a80cf58bcf3f2d9519953587d03029e868d68c130d63a2171e6eb6cac165d6a2",
@@ -23856,7 +23856,7 @@
         "STATION":"HEZAMARA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":0.4
     },
     {
         "stationID":"6f350df8711949c03d0f3ad860a26f309ee9fde42b180c7073d9c8f5524f25c2",
@@ -23865,7 +23865,7 @@
         "STATION":"HRC_NAGICHERRA",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":28.0
     },
     {
         "stationID":"216ace37da3b74446960e4a8ca3f8d2c328700cb73c89dc3d7a613549dfc7c14",
@@ -23883,7 +23883,7 @@
         "STATION":"KHUMLUWANG",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":14.5
     },
     {
         "stationID":"8ba07010befdde8f88a99abc8fa6baa255eaf09823091a90f455f7f1f69d71b4",
@@ -23892,7 +23892,7 @@
         "STATION":"LEMBUCHERRA",
         "TYPE":"AGRO",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":75.5
     },
     {
         "stationID":"feedda9a283a53a116323573ffa974e1acc0cfabc550fd2c44c4f80b001cea96",
@@ -23901,7 +23901,7 @@
         "STATION":"LAMBUCHERRA_AGRI_COLLEGE",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":74.0
     },
     {
         "stationID":"7e7346670a0de35b746c062e276876c36ff3839ea4d22653593bc82f460fdf80",
@@ -23910,7 +23910,7 @@
         "STATION":"MET AGARTALA",
         "TYPE":"AWS",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":16.5
     },
     {
         "stationID":"9e45a15a091a2bf7e72eeb3bbe006b0e5ca70fbe18c927b461906cb00bc021dc",
@@ -23919,7 +23919,7 @@
         "STATION":"SECRETERIATE",
         "TYPE":"ARG",
         "date":"2026-08-06",
-        "rainfall":null
+        "rainfall":71.0
     },
     {
         "stationID":"1bd4605741d5aac68a890afdb7baecb809f7c19c8a47dba69c15080f6a8ad44e",
@@ -24009,7 +24009,7 @@
         "STATION":"ANINI",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":250.0
     },
     {
         "stationID":"2be2a02a95a81714e06322acdecc65304ff870ea44e894b03e813bf61f31ebd2",
@@ -24090,7 +24090,7 @@
         "STATION":"PASHIGHAT",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"a703252ee6068bea7f14ea43d597f93e68e445c95957478587c6a384a609c881",
@@ -24234,7 +24234,7 @@
         "STATION":"WAKRO",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"e761c8d27cfb2c81cd792e0fdfac34ef958362618c4ed15dc79528d52c3fd2ba",
@@ -24378,7 +24378,7 @@
         "STATION":"ITANAGAR",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"1f2a6aa1bded0ce2b90bf4f20edcf8c678bf6acd7f83d4b9dce3066cc382f018",
@@ -24720,7 +24720,7 @@
         "STATION":"DIRANG",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"a796b8780c2123ee629664dfba72fdbe2b1fd558176c8e3ed39f27a7ddbf26d1",
@@ -24792,7 +24792,7 @@
         "STATION":"MANAS",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"b23dc8dd436452b26766e90fbc90f31a776eda6d04294a007c5e49d319d8bdb7",
@@ -24891,7 +24891,7 @@
         "STATION":"CACHER_KVK",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":6.0
     },
     {
         "stationID":"fd30c1eb2bbbd0c33d4a08a9460b29fcea7efbdccf7a07857da50ad6897e1709",
@@ -24900,7 +24900,7 @@
         "STATION":"LAKHIPUR",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":25.0
     },
     {
         "stationID":"fce24c1650aefb81d459faf3fe5fec4d9442e453d69e9bd899a4a527d2e03e89",
@@ -25062,7 +25062,7 @@
         "STATION":"SILAPATHAR_SCIENCE_COLLEGE",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":2.5
     },
     {
         "stationID":"c52a573d25205d89e3d020df395027c3ef5653c746ab83deae2ab7782528b8a6",
@@ -25089,7 +25089,7 @@
         "STATION":"BN_COLLEGE",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"8e64fc10bce8d7cc7f58e1bbc1f74c89d7a64c684576aac2449e417075355c76",
@@ -25098,7 +25098,7 @@
         "STATION":"DHUBRI_KVK",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":12.0
     },
     {
         "stationID":"078e80f8f8272a2ec00dccbbfd242c7f72e68c2afb0a6515863d2a408fa0b8d6",
@@ -25143,7 +25143,7 @@
         "STATION":"DC_OFC_DIBRUGARH",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":2.5
     },
     {
         "stationID":"4f10cf694649369cb9cc0a9f3db1f7cbe016e57f80c92516421daa68cb658f37",
@@ -25215,7 +25215,7 @@
         "STATION":"WRD",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"dd5d72ef77fcb00150caee33697bfb1eed54729886bf00edb9f0edbe6b0ccf04",
@@ -25224,7 +25224,7 @@
         "STATION":"HAFLONG_AEGCL",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.5
     },
     {
         "stationID":"8c616ca38c1d9f6bd01aad548567312485297f4fdbb7841cc2172e35b785233b",
@@ -25242,7 +25242,7 @@
         "STATION":"LKHEP",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"b34549fc1e3ee27d5d7295ea7c306183ef497e9a5788408da5dd24b122343d44",
@@ -25251,7 +25251,7 @@
         "STATION":"UMRANGSHU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.5
     },
     {
         "stationID":"193267745bed295d61f844826af3611888cc039f0d83adb8cfeee2c072645635",
@@ -25278,7 +25278,7 @@
         "STATION":"DUDHNOI",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"db878976ab25fba9e4391f6fbb3ddf2cf102b653086251fe179a729005466c9f",
@@ -25305,7 +25305,7 @@
         "STATION":"BOKAKHAT",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":6.0
     },
     {
         "stationID":"573a765e6417b73cb122ad203624312cd647a5e7a83710373f76937a32d92fe1",
@@ -25314,7 +25314,7 @@
         "STATION":"CNB_COLLEGE_BOKAKHAT",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":11.0
     },
     {
         "stationID":"a4d478fb7785aef1bf3b01b7ad427b60cfdac38584f360fba32c947fd6e49c33",
@@ -25323,7 +25323,7 @@
         "STATION":"DKD_COLLEGE",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"d09dded833d5b72b0f15e0bdec0b29ca3e272605d0d435246f5001bc06124ab5",
@@ -25368,7 +25368,7 @@
         "STATION":"ALGAPUR_CIRCLE",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"2a14f09b3f4bc9bc03eaa85eff2e56b4c421f328c11cb5b98c9a0912cee82ce4",
@@ -25404,7 +25404,7 @@
         "STATION":"MATIJURI",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"cdf39a48a3b0b081661060794c77b67f8105164ccb7c58acfb886edd0cc66dd5",
@@ -25413,7 +25413,7 @@
         "STATION":"PANCHGRAM_AEGCL",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":8.5
     },
     {
         "stationID":"24ff298cbbf02e202d65a0444428f99d5b3000797ac9bf866df85c606a5bd2df",
@@ -25422,7 +25422,7 @@
         "STATION":"LUMDING",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"57642bed6a3ee9f2b9a00ffbc5f3c4e9549826ab519d89b5411997b70626914c",
@@ -25431,7 +25431,7 @@
         "STATION":"AAU_BARBHETA_JORHAT",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":10.0
     },
     {
         "stationID":"0c805b3f7f12ee89112d333ce9f0680d4e26aa1ae383a8ed02503210b9c0eec1",
@@ -25458,7 +25458,7 @@
         "STATION":"MARIYANI_CIRCLE",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.0
     },
     {
         "stationID":"4f058e77e1d8aaad7627ad12a76931ca94d9e3c96be472df87809871cbb7d014",
@@ -25467,7 +25467,7 @@
         "STATION":"TEOK",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"635ab0a359230f9b07e8f79af226a37f6c63e206cddf0acb78eb827416d6e3e3",
@@ -25494,7 +25494,7 @@
         "STATION":"CHANDUBI",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":4.5
     },
     {
         "stationID":"3f2d5840ce31ed086582c49093328a4e96eb241ac9e955138b809649148a0e01",
@@ -25512,7 +25512,7 @@
         "STATION":"KUKURMARA_MIRZA_AEGCL",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":6.5
     },
     {
         "stationID":"6384ed95505a8d08ef6793665c54e059e057b50afbef4bb234aac5f4718ef2a0",
@@ -25557,7 +25557,7 @@
         "STATION":"CHANDRAPUR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":12.0
     },
     {
         "stationID":"dad991facc952e7da65d640706f49ec44807c920954086b2eee46b23fa11eb94",
@@ -25611,7 +25611,7 @@
         "STATION":"HANGRABARI",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"bba7f082fdcc5d108bd7624a0c326b64e93cb2b85e2c4036dcdbb094fc238b91",
@@ -25647,7 +25647,7 @@
         "STATION":"KALAKSHETRA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.5
     },
     {
         "stationID":"88adac9412db1c84766e23dfbf78c8dea737edc28d50f103aec8167abd337536",
@@ -25656,7 +25656,7 @@
         "STATION":"KAMAKHYA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"d65669da48c507ece8630da533fe1feb19936226903a791b14838c8027e7d7dc",
@@ -25665,7 +25665,7 @@
         "STATION":"KHETRI",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.5
     },
     {
         "stationID":"6d9b0bda0aaf97bbbd2221b3b0cd8671ecf88ba60eec99eb766338ca70c6b667",
@@ -25683,7 +25683,7 @@
         "STATION":"SARUSAJAI",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"2b604f8028592336e96a563d0471594da200528937ee1aba4cd4de1ca9dc4ea0",
@@ -25701,7 +25701,7 @@
         "STATION":"VCBC_RANI",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":8.5
     },
     {
         "stationID":"706bbf8e16df96523e4b79e5f386e41c3ba79cc8480685ccf3e587a19a679c7d",
@@ -25755,7 +25755,7 @@
         "STATION":"BAKULIA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":6.0
     },
     {
         "stationID":"ea5d5d5559acf80a2caa22985a16d647a1505265441a241dba398fa29d5a3c19",
@@ -25764,7 +25764,7 @@
         "STATION":"DIPHU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.5
     },
     {
         "stationID":"baa12386bf638531d0c1feac769d90ef749f9c47ba994e1044cee914ed68b9c1",
@@ -25791,7 +25791,7 @@
         "STATION":"HABANG_CIRCLE",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"9651baed6648ec2bc3580b2aebea5aaf51c4f86174641f5a93a12b1a54d9d416",
@@ -25809,7 +25809,7 @@
         "STATION":"UMLAPHER",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":5.0
     },
     {
         "stationID":"0df4d52df16c06b0a0421f4981923f0ce7559e35568a4bfcf378cd86cfc24288",
@@ -25863,7 +25863,7 @@
         "STATION":"KARIMGANJ_AMFU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":17.5
     },
     {
         "stationID":"ee4c61cfef73052b6b83a6e06c002379e2747019ad8a7fdd1770053dab07e80c",
@@ -25872,7 +25872,7 @@
         "STATION":"ZRS_AKBARDUR",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":18.0
     },
     {
         "stationID":"a9baeb0739e15b3f45ca46ecc99b8a3195e6656b4ae5fbd772f15c848164858f",
@@ -25935,7 +25935,7 @@
         "STATION":"CHOULDHUAGHAT",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":11.0
     },
     {
         "stationID":"0c7dc0657c64524e0f8e07d8838de02104e8caf0e7a76a47e9a690d0d66c9d9d",
@@ -25944,7 +25944,7 @@
         "STATION":"LAKHIMPUR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.5
     },
     {
         "stationID":"ebdc4e79ddd5c20983a1603da28273cd57ab3f7ea34583930255f9e7c01120c2",
@@ -25962,7 +25962,7 @@
         "STATION":"MAJULI",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":54.5
     },
     {
         "stationID":"5f7fba3c6e8387d308e2d237238b8b9c5a3a9c96846770c94e2dfd68a04c7fcc",
@@ -26052,7 +26052,7 @@
         "STATION":"SAMAGURI_AEGCL",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":75.5
     },
     {
         "stationID":"a914cc07c8ae016f45ca9e0b2380ff9355424d8caa42ba24d7c063651437d8ae",
@@ -26070,7 +26070,7 @@
         "STATION":"ZRS_SHILLONGANI",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"a95f4c42318ce5a7cb0fae85c75f9b2fa66b276cf1126e68fc5d5ebf928d2c09",
@@ -26106,7 +26106,7 @@
         "STATION":"TIHU",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"6a6b6c08cd4256967ab1e7eddb9d21a1f41a85086be85a4fe5550f2ca87ae2f3",
@@ -26115,7 +26115,7 @@
         "STATION":"ZRS_GURUMURIA",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"96db519afdb5ebc8d28d59a06e8b2aafe827fc450e8627a06198e642c25e4e9a",
@@ -26142,7 +26142,7 @@
         "STATION":"SIVSAGAR_AEGCL",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":39.5
     },
     {
         "stationID":"719c14702735ca003b7dfc1957171e8552e49df92ddde90e5fcf1cccc7b7a557",
@@ -26160,7 +26160,7 @@
         "STATION":"BISWANATH_COLLEGE_OF_AGRICULTURE_BISWANATH_CHARIALI",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":2.5
     },
     {
         "stationID":"0c73f7cdc1fb8bfd485028dcf8bf8eb955e5173c836a2fd4831b8958be3af4ab",
@@ -26187,7 +26187,7 @@
         "STATION":"GHORAMARA_AEGCL",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"78db536fe6cb8342286628a01419395a6cabb18e491c5f382e6450cabaacf694",
@@ -26205,7 +26205,7 @@
         "STATION":"NERIWALAM",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":68.5
     },
     {
         "stationID":"092c723859970773f0c9d0295b0d5c880c8a40f72b6f003f3ee56470b946dcfc",
@@ -26223,7 +26223,7 @@
         "STATION":"MUSHALPUR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":24.5
     },
     {
         "stationID":"579a21faf6d4954bf7506b6aa574893dcf4e894702566ec8728d78e7280cf053",
@@ -26259,7 +26259,7 @@
         "STATION":"MARGHERITA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"88741a7d0890bf4818538f3c52ec134f8019c01eea294d805e1da98b1bdd12ab",
@@ -26286,7 +26286,7 @@
         "STATION":"TINSUKIA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"8f3182da135de9b4c25828da55843c187024bbcffe244b2dbfc81924155d934d",
@@ -26322,7 +26322,7 @@
         "STATION":"TANGLA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.2
     },
     {
         "stationID":"6643d93f6d6553ff13e13cb1f6a8862dfb43d2d551aa462f547560e0c16efd8a",
@@ -26376,7 +26376,7 @@
         "STATION":"CHAKPIKARONG",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":14.0
     },
     {
         "stationID":"3e064395326d249292df15f00b3f38521ec6c9d347271751b18fa25ab69bf778",
@@ -26394,7 +26394,7 @@
         "STATION":"GELJANG_RESORT",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":5.0
     },
     {
         "stationID":"8d2e0697970215291be5dd4d565ff4e627b92e2352a6341f13e1a3da709ef47c",
@@ -26403,7 +26403,7 @@
         "STATION":"JIRIBAM",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":173.0
     },
     {
         "stationID":"6d0f37f2cea1ac549b4410d80a3afc1f09d7317de78188fb3855dd438b50e03e",
@@ -26466,7 +26466,7 @@
         "STATION":"KAMJONG",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"499f64a38e75c8c16fd4d5319c1cbde204fba9d7df81e3056393e53aa746b874",
@@ -26475,7 +26475,7 @@
         "STATION":"SAIKUL",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":4.5
     },
     {
         "stationID":"e23cbecfb77d5878929ad8455ed554a580e185b1d0c810309fd4a1a97c199522",
@@ -26520,7 +26520,7 @@
         "STATION":"ADC MOREH",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":12.5
     },
     {
         "stationID":"56a2728865c9d45529fe60fb6b83331df2d1d4326afcb521413184e4b1f7b3da",
@@ -26529,7 +26529,7 @@
         "STATION":"KAKCHING",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"a5db568509833aaaecd385e44f3dac0b5b3a30c53ad4798c8c54c961d615712a",
@@ -26574,7 +26574,7 @@
         "STATION":"WILLIAMNAGAR",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":19.5
     },
     {
         "stationID":"38f9b0913e8d3b07d82d023f679471a11dad3d9f59a2783830a5810caaa49b65",
@@ -26601,7 +26601,7 @@
         "STATION":"KHATARSHNONG_LAITKHROH",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":10.0
     },
     {
         "stationID":"18e2bd80f88bf0e7a1c5dc2dd9274ea92823bf484db7dbe1794dc7de8c0c799b",
@@ -26610,7 +26610,7 @@
         "STATION":"LABAN",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":16.5
     },
     {
         "stationID":"e0d83560eddde5ff0a2a6007a1eb97087d74547a7a02d642a72020bd72b99db7",
@@ -26628,7 +26628,7 @@
         "STATION":"MAWRYNGKNENG",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"49bb4031bca583b255fbe87bb1e07b7b70f5e8d08ba9b194a8bdf5b3d1d85db3",
@@ -26664,7 +26664,7 @@
         "STATION":"SHILLONG",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":18.5
     },
     {
         "stationID":"b79505454dd6e14e6def69e2edd4c645404423ddaa06eeaf375fb6c1df2df22e",
@@ -26682,7 +26682,7 @@
         "STATION":"KVK_NONGSHILLONG",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":30.0
     },
     {
         "stationID":"d99fe3291d4856288712297fff53d88f235c7c0b4716965b69f4a98f3d22bf48",
@@ -26700,7 +26700,7 @@
         "STATION":"JOWAI",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":218.2
     },
     {
         "stationID":"c86247fe4535dcc6fb80555ae4c8abf109baf71ce3cf97456c99e2db4aa2c711",
@@ -26727,7 +26727,7 @@
         "STATION":"RESUBELAPARA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"d06badfea4417a4213d8d39ca57df3fbc9b63289ffc7befb1bc1164b385696e6",
@@ -26772,7 +26772,7 @@
         "STATION":"UMTREWDAM",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":14.0
     },
     {
         "stationID":"71d993a6c9414510bd520b0288b0db8e986755a58ff634fe155d671554d37ad0",
@@ -26781,7 +26781,7 @@
         "STATION":"MINENG",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":24.0
     },
     {
         "stationID":"bb48c13168bc7680cf06068c35810138ff2cbd9404de05f8a6914b895280f00f",
@@ -26790,7 +26790,7 @@
         "STATION":"BAGHMARA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":48.5
     },
     {
         "stationID":"4b7515b1d76cad833ce0ceb380bab6370bedc0af0865a398604964c63156e652",
@@ -26808,7 +26808,7 @@
         "STATION":"AMPATI",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"04f75b3eb0bd49037475ed2986cfb336635447da66c88bf44ad89a0c7e364ddb",
@@ -26817,7 +26817,7 @@
         "STATION":"MAWKYRWAT",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":3.5
     },
     {
         "stationID":"8028ab755414ac14e2c8239a236b20efd97437cc17129f1e73914e90e67bb954",
@@ -26871,7 +26871,7 @@
         "STATION":"NONGSTOIN",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":22.5
     },
     {
         "stationID":"1ac163fe6f8d52865c8389ea2bcaccee8ca6c30961df1543201a515d098ff94f",
@@ -26880,7 +26880,7 @@
         "STATION":"LENGPUI",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":9.0
     },
     {
         "stationID":"2599622eba05feb716421a7c94c8ecb6aa55a8ac6e5b01de268de83a98895db5",
@@ -26889,7 +26889,7 @@
         "STATION":"MIZORAM UNIVERSITY",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":8.5
     },
     {
         "stationID":"a76dee761d6494308e92161a632df2c22a352837e236c218eff86e7a903b0c0c",
@@ -26907,7 +26907,7 @@
         "STATION":"CHAMPHAI_AWS",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":222.5
     },
     {
         "stationID":"4016818226bf8aeeb616e7b7bb14f11d81d339b2da6c20c7afb67a14a569bc12",
@@ -26934,7 +26934,7 @@
         "STATION":"HNATHIAL",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":28.0
     },
     {
         "stationID":"fa9892aef5dcb7bcb321d9a80b481047753abd8f301975800364d8d5bbd1499b",
@@ -26943,7 +26943,7 @@
         "STATION":"KHAWZAWL",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":21.5
     },
     {
         "stationID":"57439d56b97bf71b73bba20e096f603026eb29798734311f3c1efcf994617e4f",
@@ -26961,7 +26961,7 @@
         "STATION":"KOLASIB",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":13.5
     },
     {
         "stationID":"8712cb62d094fb73927efbd0aa6e3c73d3b9c8561dac5fa82586f5433e6f2f11",
@@ -26997,7 +26997,7 @@
         "STATION":"CHAWNHU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":24.5
     },
     {
         "stationID":"dcf256186af64ccb955ca8d99e97e4e7d9730dd4033e9af7eb862b1f8a3af764",
@@ -27006,7 +27006,7 @@
         "STATION":"LENGPUI_KVK",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":12.0
     },
     {
         "stationID":"5b74fb5ba4e5357764eba0c877b6d14e08fb4cee215d08471c854b0dbbd973f4",
@@ -27033,7 +27033,7 @@
         "STATION":"SAIHA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":11.0
     },
     {
         "stationID":"671a63f424e2675155f0c4ddbcbfa93d66b5644e726e17e94a38cdf65d3ae88c",
@@ -27051,7 +27051,7 @@
         "STATION":"EAST_LUNGDAR",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"b8b1c9010e2acbd10931f6d14c58db4360b9e8ebf4a69f9f0bd25df47b1268b4",
@@ -27060,7 +27060,7 @@
         "STATION":"SERCHHIP",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":23.0
     },
     {
         "stationID":"46f818b9506dd2bbeba9bcb7983ebd665dd45e5a7507a3dd445c54f5a7673e6c",
@@ -27069,7 +27069,7 @@
         "STATION":"CHUMEKEDIMA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"f9a7d0402b06e868f9eb454155dce49d0524c7d1283da24cafbb3860069f3ffb",
@@ -27087,7 +27087,7 @@
         "STATION":"JHARNAPANI_AMFU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":11.5
     },
     {
         "stationID":"1191737661fdc7214a5e4a5a35fd347f92ec17604240de5b1fedeabd99430f7f",
@@ -27249,7 +27249,7 @@
         "STATION":"TSEMINU",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"0fd66c25b660f37df70e1440dfbb318470a06cd0c8eb1d43deef764e2bc9246e",
@@ -27258,7 +27258,7 @@
         "STATION":"WOKHA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":82.0
     },
     {
         "stationID":"21c456ee7260a6853f6d69941f30dc75281c0a2b460ef6e53bafd75e291ffd69",
@@ -27483,7 +27483,7 @@
         "STATION":"AMBASSA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.2
     },
     {
         "stationID":"cd331b82bd96ec717c45e93815c4d50a7181c01f9c896b453c20f8340c35273d",
@@ -27501,7 +27501,7 @@
         "STATION":"DHOLAI _KVK",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":4.0
     },
     {
         "stationID":"c9656df4782fbc2ae326d3358de81a361e5fbe68a1151782437fbfe48c04f12a",
@@ -27510,7 +27510,7 @@
         "STATION":"GANDACHARA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":11.0
     },
     {
         "stationID":"185d41fcaf0b6b4e3b4378f16ad27abe7d04e1f5fc892024e49f2e4019fe6f56",
@@ -27519,7 +27519,7 @@
         "STATION":"KAMALPUR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":10.5
     },
     {
         "stationID":"5204fb2ad334bf020a0ef46fd76215dcc78f3e832c9aabd686c5ec1dfbd4c754",
@@ -27528,7 +27528,7 @@
         "STATION":"NALKATA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":2.0
     },
     {
         "stationID":"faf3245de16c83343df4609fe3f682fa55338a66656176374a78ddd534bb9de6",
@@ -27537,7 +27537,7 @@
         "STATION":"AMARPUR",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":12.5
     },
     {
         "stationID":"6f50a90148d560e3fac50a0a87f9c8a27a12021b0c8c9f7bdd67d030b1a5adc7",
@@ -27546,7 +27546,7 @@
         "STATION":"GOLUKPUR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":6.5
     },
     {
         "stationID":"b9528b92e31c1b20fb2a656735c9166aeff70a06c3a509331a636d6555e370b2",
@@ -27555,7 +27555,7 @@
         "STATION":"KARBOOK",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":13.6
     },
     {
         "stationID":"3292d60fc22238dd69a2cca3177e2a30ab2894f2fe2f6f26ddec6feb6e1a88be",
@@ -27564,7 +27564,7 @@
         "STATION":"MAHARANI",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.6
     },
     {
         "stationID":"026d6baf944794c09480bf3094af02d69ddd62c4e8acf9b2fb76d8b97343569c",
@@ -27573,7 +27573,7 @@
         "STATION":"TAIDU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":8.8
     },
     {
         "stationID":"90307e7de77292ca4e715b451db944262ee48de8cced0daca252ec176e37bd9c",
@@ -27609,7 +27609,7 @@
         "STATION":"TELIAMURA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"2c67b9fb6e2392393861e94dea9569c38c2a1ce84af36e2449e68d3ad5cfb4c0",
@@ -27627,7 +27627,7 @@
         "STATION":"ASHAPARA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.5
     },
     {
         "stationID":"b746b86d84d1f1c65d5d88f7906442ecd04e7f15cbc11fd6002121d7f66e4ca2",
@@ -27636,7 +27636,7 @@
         "STATION":"EDEN_LAOUGE",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":16.0
     },
     {
         "stationID":"418dc6c4fe8934542360e69883dca0d7850fc9a94547448deee3c779171907fe",
@@ -27654,7 +27654,7 @@
         "STATION":"KADAMTALA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":13.0
     },
     {
         "stationID":"03a5434c1d4a13bd187017043b12bff76b2c5f61dcec9c8e1267c595648034f8",
@@ -27681,7 +27681,7 @@
         "STATION":"KVK_PANISAGAR",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":29.0
     },
     {
         "stationID":"2189aa260a9aa8d482ff52c6b4de62431c71fd800f61225ff41ffe68e1a625db",
@@ -27699,7 +27699,7 @@
         "STATION":"KATHALIA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":4.2
     },
     {
         "stationID":"f8afa7fd98ffe53ac1f3a2d3ee26da8eb5615e72d11d6080b39f12ac4e86c2a9",
@@ -27708,7 +27708,7 @@
         "STATION":"SIPAHIJALA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":7.5
     },
     {
         "stationID":"44485fba564662acb62f80c95dcf041c5a131457c3c384c92e919e09c0cf6691",
@@ -27717,7 +27717,7 @@
         "STATION":"SONAMURA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":61.5
     },
     {
         "stationID":"f1e5a247c7a7f793edcc09472f458e7ecf848195b47c0cd490bc2b3eb9f1c754",
@@ -27726,7 +27726,7 @@
         "STATION":"BAGAFA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":1.0
     },
     {
         "stationID":"39a5dc79429674b4899ed888e1f679316de9a7eac55ea6b3f82e1a50495e3c31",
@@ -27735,7 +27735,7 @@
         "STATION":"BELONIA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":31.0
     },
     {
         "stationID":"c183c488d2c73af2baa789bb06442ef080a9d72823321eb243a308eb17f60d84",
@@ -27762,7 +27762,7 @@
         "STATION":"KVK_MANPATHAR",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":12.5
     },
     {
         "stationID":"1d13d4840f5579710f3f33d47cf2c7074be0283c4fd58c97fe9cd11679540700",
@@ -27771,7 +27771,7 @@
         "STATION":"RAJNAGAR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":0.8
     },
     {
         "stationID":"838e8f3022c272c1f7f13bb5d21865f0c573f2aaaddacfef4a8b5b730a817ea9",
@@ -27780,7 +27780,7 @@
         "STATION":"SABROOM",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":21.5
     },
     {
         "stationID":"8eaf1867487570393525f1d02bb279972ba1a21b6aefaa074b406435c72676ba",
@@ -27789,7 +27789,7 @@
         "STATION":"KAILASHAHAR",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":5.5
     },
     {
         "stationID":"73b17711ec9cf407c09a116bbde708a09e0e56b6cf26a54b32ea46c44a0b8c97",
@@ -27798,7 +27798,7 @@
         "STATION":"KUMARGHAT",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":31.0
     },
     {
         "stationID":"f6a33296f415efdb2baa34b7ff7c4c3245640fa0cf687044885d2b23038a51e9",
@@ -27807,7 +27807,7 @@
         "STATION":"AGARTALA AIRPORT",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":7.5
     },
     {
         "stationID":"6679936b36214ca487439b4cd05c596b0f166a3966c23caa880e26bea2830f95",
@@ -27816,7 +27816,7 @@
         "STATION":"AD NAGAR AMFU",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":18.0
     },
     {
         "stationID":"155960273e13343303eb7f3a2830a320f7cdf0c6181d5039ac4dd855e33467b7",
@@ -27834,7 +27834,7 @@
         "STATION":"DM_OFFICE_WEST_AGARTALA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":18.5
     },
     {
         "stationID":"a80cf58bcf3f2d9519953587d03029e868d68c130d63a2171e6eb6cac165d6a2",
@@ -27843,7 +27843,7 @@
         "STATION":"HEZAMARA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":5.4
     },
     {
         "stationID":"6f350df8711949c03d0f3ad860a26f309ee9fde42b180c7073d9c8f5524f25c2",
@@ -27852,7 +27852,7 @@
         "STATION":"HRC_NAGICHERRA",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":20.0
     },
     {
         "stationID":"216ace37da3b74446960e4a8ca3f8d2c328700cb73c89dc3d7a613549dfc7c14",
@@ -27870,7 +27870,7 @@
         "STATION":"KHUMLUWANG",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":2.5
     },
     {
         "stationID":"8ba07010befdde8f88a99abc8fa6baa255eaf09823091a90f455f7f1f69d71b4",
@@ -27879,7 +27879,7 @@
         "STATION":"LEMBUCHERRA",
         "TYPE":"AGRO",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":19.5
     },
     {
         "stationID":"feedda9a283a53a116323573ffa974e1acc0cfabc550fd2c44c4f80b001cea96",
@@ -27888,7 +27888,7 @@
         "STATION":"LAMBUCHERRA_AGRI_COLLEGE",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":18.0
     },
     {
         "stationID":"7e7346670a0de35b746c062e276876c36ff3839ea4d22653593bc82f460fdf80",
@@ -27897,7 +27897,7 @@
         "STATION":"MET AGARTALA",
         "TYPE":"AWS",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":7.0
     },
     {
         "stationID":"9e45a15a091a2bf7e72eeb3bbe006b0e5ca70fbe18c927b461906cb00bc021dc",
@@ -27906,7 +27906,7 @@
         "STATION":"SECRETERIATE",
         "TYPE":"ARG",
         "date":"2026-08-07",
-        "rainfall":null
+        "rainfall":6.5
     },
     {
         "stationID":"1bd4605741d5aac68a890afdb7baecb809f7c19c8a47dba69c15080f6a8ad44e",
