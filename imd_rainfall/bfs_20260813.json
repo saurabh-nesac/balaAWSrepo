@@ -1,0 +1,71 @@
+{
+  "generated_at": "2026-08-13T06:56:07Z",
+  "districts": [
+    {
+      "state": "ASSAM",
+      "district": "CACHAR",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 11.4
+    },
+    {
+      "state": "ASSAM",
+      "district": "GOLAGHAT",
+      "rainfall_range": "10-40 mm",
+      "estimated_mean_mm": 17.0
+    },
+    {
+      "state": "ASSAM",
+      "district": "HOJAI",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 8.1
+    },
+    {
+      "state": "ASSAM",
+      "district": "JORHAT",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 14.2
+    },
+    {
+      "state": "ASSAM",
+      "district": "KAMRUP METRO",
+      "rainfall_range": "10-20 mm",
+      "estimated_mean_mm": 15.0
+    },
+    {
+      "state": "ASSAM",
+      "district": "KAMRUP RURAL",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 11.9
+    },
+    {
+      "state": "ASSAM",
+      "district": "KARBI ANGLONG",
+      "rainfall_range": "1-40 mm",
+      "estimated_mean_mm": 14.1
+    },
+    {
+      "state": "ASSAM",
+      "district": "NAGAON",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 12.4
+    },
+    {
+      "state": "ASSAM",
+      "district": "SONITPUR",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 11.9
+    },
+    {
+      "state": "ASSAM",
+      "district": "UDALGURI",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 11.2
+    },
+    {
+      "state": "ASSAM",
+      "district": "WEST KARBI ANGLONG",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 13.4
+    }
+  ]
+}
