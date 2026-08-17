@@ -1,29 +1,53 @@
 {
-  "generated_at": "2026-08-17T13:04:54Z",
+  "generated_at": "2026-08-17T13:08:41Z",
   "districts": [
     {
       "state": "ASSAM",
       "district": "BAKSA",
       "rainfall_range": "0-10 mm",
-      "estimated_mean_mm": 3.0
+      "estimated_mean_mm": 1.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "BARPETA",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 7.3
     },
     {
       "state": "ASSAM",
       "district": "BISWANATH",
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "BONGAIGAON",
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "CACHAR",
       "rainfall_range": "0-10 mm",
-      "estimated_mean_mm": 5.2
+      "estimated_mean_mm": 4.7
     },
     {
       "state": "ASSAM",
       "district": "CHARAIDEO",
-      "rainfall_range": "1-20 mm",
-      "estimated_mean_mm": 7.0
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "CHIRANG",
+      "rainfall_range": "0-1 mm",
+      "estimated_mean_mm": 0.6
     },
     {
       "state": "ASSAM",
       "district": "DARRANG",
-      "rainfall_range": "10-20 mm",
-      "estimated_mean_mm": 15.0
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 13.0
     },
     {
       "state": "ASSAM",
@@ -33,63 +57,123 @@
     },
     {
       "state": "ASSAM",
+      "district": "DHUBRI",
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
       "district": "DIBRUGARH",
       "rainfall_range": "0-10 mm",
       "estimated_mean_mm": 5.3
     },
     {
       "state": "ASSAM",
+      "district": "DIMA HASAO",
+      "rainfall_range": "0-20 mm",
+      "estimated_mean_mm": 4.0
+    },
+    {
+      "state": "ASSAM",
+      "district": "GOALPARA",
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
       "district": "GOLAGHAT",
       "rainfall_range": "0-20 mm",
-      "estimated_mean_mm": 6.6
+      "estimated_mean_mm": 5.4
+    },
+    {
+      "state": "ASSAM",
+      "district": "HAILAKANDI",
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "HOJAI",
+      "rainfall_range": "0-10 mm",
+      "estimated_mean_mm": 1.5
     },
     {
       "state": "ASSAM",
       "district": "JORHAT",
       "rainfall_range": "0-10 mm",
-      "estimated_mean_mm": 1.6
+      "estimated_mean_mm": 1.2
+    },
+    {
+      "state": "ASSAM",
+      "district": "KAMRUP METRO",
+      "rainfall_range": "10-20 mm",
+      "estimated_mean_mm": 15.0
     },
     {
       "state": "ASSAM",
       "district": "KARBI ANGLONG",
-      "rainfall_range": "1-20 mm",
-      "estimated_mean_mm": 10.4
+      "rainfall_range": "0-20 mm",
+      "estimated_mean_mm": 8.3
+    },
+    {
+      "state": "ASSAM",
+      "district": "KARIMGANJ",
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "KOKRAJHAR",
+      "rainfall_range": "0-10 mm",
+      "estimated_mean_mm": 2.0
     },
     {
       "state": "ASSAM",
       "district": "LAKHIMPUR",
-      "rainfall_range": "0-10 mm",
-      "estimated_mean_mm": 5.4
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
     },
     {
       "state": "ASSAM",
       "district": "MAJULI",
-      "rainfall_range": "1-20 mm",
-      "estimated_mean_mm": 6.4
+      "rainfall_range": "1-10 mm",
+      "estimated_mean_mm": 5.5
     },
     {
       "state": "ASSAM",
       "district": "NAGAON",
       "rainfall_range": "1-20 mm",
-      "estimated_mean_mm": 9.8
+      "estimated_mean_mm": 13.5
+    },
+    {
+      "state": "ASSAM",
+      "district": "NALBARI",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 7.7
     },
     {
       "state": "ASSAM",
       "district": "SONITPUR",
       "rainfall_range": "1-40 mm",
-      "estimated_mean_mm": 14.9
+      "estimated_mean_mm": 15.2
     },
     {
       "state": "ASSAM",
       "district": "TINSUKIA",
       "rainfall_range": "0-10 mm",
-      "estimated_mean_mm": 2.5
+      "estimated_mean_mm": 2.4
     },
     {
       "state": "ASSAM",
       "district": "UDALGURI",
       "rainfall_range": "1-20 mm",
-      "estimated_mean_mm": 8.9
+      "estimated_mean_mm": 8.6
+    },
+    {
+      "state": "ASSAM",
+      "district": "WEST KARBI ANGLONG",
+      "rainfall_range": "1-20 mm",
+      "estimated_mean_mm": 12.0
     }
   ]
 }
